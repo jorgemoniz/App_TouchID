@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  App_TouchID
 //
-//  Created by cice on 27/3/17.
+//  Created by Jorge Moñiz on 27/3/17.
 //  Copyright © 2017 jorgemoniz. All rights reserved.
 //
 
